@@ -1,0 +1,9 @@
+.clickCounterContainer {
+    border: 1px solid #222;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.clickCounterContainer > * {
+    margin: 10px;
+}
